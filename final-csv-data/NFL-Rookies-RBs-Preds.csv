@@ -1,0 +1,16 @@
+Player,Position,Height,Weight,Seasons-Col,Games-Pred,Yards-Pred,Carries-Pred,Avg-Carry-Pred,Avg-Game-Pred,TDs-Pred,Rec-Pred,RecYards-Pred,RecTDs-Pred,40 yd dash,Vertical,DC Pos,DraftPos,FPoints,FPoints(PPR),Most Similar RB1,Most Similar RB2,Most Similar RB3,SimScore1(Lower is better),SimScore2,SimScore3,FPointsHigh,FPointsLow,VarScore,ADP2017,CurrADP
+Saquon Barkley,RB,72,233,3,14,827,199,4.2,58.3,5,30,293,1,4.4,41,1,2,148,178,T.J. Yeldon,LeVeon Bell,Demarco Murray,94.31,123.39,138.39,158.4,132.9,0.7,16,5
+Rashaad Penny,RB,71,220,4,13,885,190,4.7,66,7,20,179,1,4.46,32.5,1.5,27,154.4,174.4,Demarco Murray,Vick Ballard,Tre Mason,45.73,89.59,129.48,164.4,133.8,0.6,15,18
+Sony Michel,RB,71,214,4,12,698,160,4.4,56.7,5,19,149,0,4.54,30,2,31,114.7,133.7,Andre Williams,Tre Mason,Melvin Gordon,66.57,70.22,87.12,116.9,104.6,0.6,31,22
+Nick Chubb,RB,71,227,4,14,779,175,4.5,57.6,6,20,189,1,4.52,38.5,2,35,138.8,158.8,Tre Mason,Vick Ballard,Andre Williams,48.41,67.28,94.4,141.1,125,0.4,23,37
+Ronald Jones,RB,71,208,3,13,698,130,5.4,55.5,4,15,116,0,4.48,30,1.5,38,105.4,120.4,Tre Mason,Frank Gore,Andre Williams,90.39,93.07,94.29,109.3,98.3,1.2,37,28
+Kerryon Johnson,RB,71,213,3,14,388,91,4.3,27.8,2,17,142,1,4.54,40,2,43,71,88,Kenneth Dixon,Latavius Murray,Robert Turbin,25.12,37.2,55.93,85.4,61.3,1.2,48,29
+Derrius Guice,RB,70,224,3,15,885,201,4.4,59.1,7,22,222,1,4.49,31.5,1.5,59,158.7,180.7,Demarco Murray,Vick Ballard,Tre Mason,68.36,109.86,148.33,170.2,137.1,0.8,13,19
+Royce Freeman,RB,71,229,4,14,912,208,4.4,66.1,5,28,297,1,4.54,34,1.5,71,156.9,184.9,Trent Richardson,LeVeon Bell,Demarco Murray,112.32,122.2,128.62,164,142.4,0.4,15,25
+Nyheim Hines,RB,68,198,3,8,128,34,3.8,15.2,1,16,186,1,4.38,35.5,2.5,104,43.4,59.4,C.J. Prosise,Charles Sims,Alex Collins,51.23,66.06,103.93,45.5,23.2,4.6,70,56
+Mark Walton,RB,70,202,3,1,7,2,3.5,13.7,0,9,70,1,4.6,31.5,3,112,13.7,22.7,Brian Hill,Josh Robinson,Marion Grice,47.98,52.34,55.85,14.3,6.4,69.5,105,200
+Ito Smith,RB,69,195,4,4,114,67,1.7,29.3,0,18,152,1,4.49,30,3,126,32.6,50.6,Alex Collins,Charles Sims,C.J. Prosise,80.47,81.35,89.55,41.3,30.1,2.3,84,200
+Kalen Ballage,RB,73,228,4,14,335,81,4.1,23.6,2,13,113,0,4.46,33.5,3,131,56.8,69.8,D'Onta Foreman,Carlos Hyde,Ronnie Hillman,33.74,45.44,53.31,66.4,53.3,1.2,63,200
+Jordan Wilkins,RB,73,216,3,11,205,39,5.3,18.3,1,7,100,0,4.5,30,3.5,169,36.5,43.5,Jay Ajayi,Cameron Artis-Payne,Kenyan Drake,23.08,49.01,60.71,38.8,32.4,2.3,81,47
+John Kelly,RB,70,216,3,21,285,61,4.7,13.8,2,14,201,1,4.5,35,2.5,176,66.6,80.6,Elijah McGuire,Devonta Freeman,Marlon Mack,48.05,48.1,85.77,69.1,49.8,1.8,56,200
+Boston Scott,RB,66,199,5,14,22,8,2.8,1.6,1,4,59,1,4.4,38.5,3.5,201,20.1,24.1,Dri Archer,James White,Cyrus Gray,42.87,43.36,48.9,38.9,5.6,26.7,93,200
