@@ -1,0 +1,1 @@
+git init --> git add . ---> git commit -m "comment" ---> git remote add origin git@github.com:eapanthers/FantasyFootballML.git ---> git push -u origin master
